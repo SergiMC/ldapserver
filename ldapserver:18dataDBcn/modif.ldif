@@ -1,0 +1,9 @@
+dn: cn=Pere Pou,ou=usuaris,dc=edt,dc=org
+changetype: modify
+modify: passwd
+passwd: pere2
+
+
+
+
+
